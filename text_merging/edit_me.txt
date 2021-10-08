@@ -1,4 +1,4 @@
-Hello my name is computer 
+Hello my name is comiuter 
 hello, world!
 
 Guten morgen!
@@ -9,4 +9,7 @@ New line!
 
 New lines.
 
-New line here.
+New line here
+Hello!
+New line added during rec!
+-Victoria
